@@ -3,11 +3,13 @@ About chemex-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/chemex-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/gbouvignies/ChemEx
+Home: https://gbouvignies.github.io/ChemEx/
 
 Package license: GPL-3.0-only
 
 Summary: An analysis program for chemical exchange detected by NMR
+
+Documentation: https://gbouvignies.github.io/ChemEx/
 
 Current build status
 ====================
@@ -188,5 +190,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@gbouvignies](https://github.com/gbouvignies/)
+* [@ocefpaf](https://github.com/ocefpaf/)
 
